@@ -1,0 +1,11 @@
+{
+  "name": "torrent",
+  "version": "0.0.1",
+  "description": "torrent health checking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GmanPark@2017",
+  "license": "MIT"
+}
