@@ -5,6 +5,8 @@
 리처(Leecher)는 흔히 해당 토렌트를 다운로드 하고 있는 사람이라고 설명됩니다.
 하지만 정확한 리처의 의미는 해당 토렌트를 구성하는 파일의 일부를 가지고 있는 사람입니다. 따라서 현재 다운로드가 진행 중인 사람은 물론 여러 개의 파일로 된 토렌트 중 일부만 받은 사람(추가 다운로드 없음)도 리처입니다.
 
+[Torrent Protocol](https://allenkim67.github.io/bittorrent/2016/05/04/how-to-make-your-own-bittorrent-client.html)
+
 #[ View ] : 
 
 for checking torrent health.
