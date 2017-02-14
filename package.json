@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "GmanPark@2017",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bittorrent-tracker": "^8.5.0",
+    "parse-torrent": "^5.8.1"
+  }
 }
