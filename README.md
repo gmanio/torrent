@@ -12,7 +12,7 @@
 for checking torrent health.
 
 # vendor
-[bittorrent-tracker](https://github.com/feross/bittorrent-tracker)
+[bittorrent-tracker](https://github.com/feross/bittorrent-tracker)  
 [parse-torrent](https://github.com/feross/parse-torrent)
 
 
